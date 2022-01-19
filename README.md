@@ -4,7 +4,7 @@ A simple Swift application to store photos of artworks.
 
 I take a lot of photos in galleries/ museums as inspiration for my future paintings but these reference photos always end up scattered in my photo library and I never look at them. Hopefully with this app I will be inspired to create more artworks!
 
-Gallery view (homefeed) of the app![gallery-view](https://user-images.githubusercontent.com/47307668/150103112-327dd459-3e7c-41b7-9763-fabe6e842344.PNG | height=100px)
+Gallery view (homefeed) of the app![gallery-view](https://user-images.githubusercontent.com/47307668/150103112-327dd459-3e7c-41b7-9763-fabe6e842344.PNG width="20" height="50")
 (./gallery-view.png)
 Sort by artist(./by-artist-view.![by-artist-view](https://user-images.githubusercontent.com/47307668/150103878-00fe6c3a-d7e8-4612-95cd-75c2cf523d7e.PNG)
 png)
